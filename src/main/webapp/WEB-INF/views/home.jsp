@@ -44,6 +44,12 @@
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
 			</li>
 			<li>
+				<a id="simple2Link" class="textLink" href="<c:url value="/simple2" />">GET /simple2</a>
+			</li>
+			<li>
+				<a id="simple3Link" class="textLink" href="<c:url value="/simple3" />">GET /simple3</a>
+			</li>
+			<li>
 				<a id="simpleRevisited" class="textLink" href="<c:url value="/simple/revisited" />">GET /simple/revisited</a>
 			</li>
 		</ul>
